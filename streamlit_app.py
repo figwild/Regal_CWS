@@ -104,7 +104,7 @@ IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
     "Regal_Project_1.pkl": {
-        "url": "https://drive.google.com/file/d/1LpppfviJGkmi6z-6g8tXSmfJiqILveGV/view?usp=sharing",
+        "url": "https://www.dropbox.com/s/xin8h6tl5ufh8p5/Regal_Project_1.pkl?dl=1",
         "size": 179197952
     }
 }
