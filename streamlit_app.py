@@ -103,7 +103,7 @@ def download_file(file_path):
 IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
-    "perumixed3.pkl": {
+    "Regal_Project_1.pkl": {
         "url": "https://drive.google.com/file/d/1LpppfviJGkmi6z-6g8tXSmfJiqILveGV/view?usp=share_link",
         "size": 179197877
     }
